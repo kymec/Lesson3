@@ -1,0 +1,26 @@
+.days {
+    color: black;   
+}
+.not-current {
+    color: lightgrey;
+}
+.days div div {
+    display: inline-block;
+    width: 30px;
+    border: 1px solid black;
+    padding: 10px 0px 10px 15px;
+    margin: 0px -5px -1px 0px;
+    background-color: beige;
+}
+.day-of-week {
+    color: darkgray;
+}
+.day-of-week div {
+    display: inline-block;
+    width: 27px;
+    padding: 10px 0px 10px 15px;
+    
+}
+.holiday {
+    color: red;
+}
